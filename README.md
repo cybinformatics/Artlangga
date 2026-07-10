@@ -1,13 +1,11 @@
 # Artlangga
 🎨 Art market online khusus civitas Universitas Airlangga. Jual-beli merch, ilustrasi, dan karya seni dari sesama mahasiswa UNAIR. 
 
-# 🎨 Artlangga
-
-**"Karya teman, untukmu."**
+**"From Student, To Student."**
 
 Art market online khusus civitas Universitas Airlangga (UNAIR).
 Platform jual-beli merch, ilustrasi, dan karya seni dari sesama
-mahasiswa — dari tangan seniman kampus, langsung ke tanganmu.
+mahasiswa dari tangan seniman kampus, langsung ke tanganmu.
 
 ---
 
