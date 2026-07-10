@@ -62,9 +62,3 @@ artlangga/
     └── src/
         ├── pages/
         └── components/
-```
-
-## 👤 Author
-
-**Cybil** — Teknik Informatika, Universitas Airlangga
-HIMTI UA · Kabinet Aksentra 2026
